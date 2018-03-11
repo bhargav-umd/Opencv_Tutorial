@@ -16,7 +16,5 @@ cv2.imshow('redimagebhai',red)
 
 
 
-
-
 cv2.waitKey()
 #cv2.destroyAllWindows()
